@@ -16,7 +16,7 @@
 
 
 ### 📫 **Me contacter**  
-🔗 [LinkedIn]([https://linkedin.com/in/tonprofil](https://www.linkedin.com/in/mickael-djegherif/))  
+🔗 [LinkedIn](https://www.linkedin.com/in/mickael-djegherif/)  
 📧 [Email](mailto:mickael.djegherif@outlook.fr)
 
 ⭐️ *N'hésite pas à me suivre et à collaborer !*  
