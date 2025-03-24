@@ -24,3 +24,6 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MikeXXI&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MikeXXI&layout=compact&theme=radical)
+
+![Snake animation](https://github.com/MikeXXI/MikeXXI/blob/output/github-contribution-grid-snake.svg)
+
